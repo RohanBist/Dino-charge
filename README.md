@@ -1,17 +1,7 @@
 🦖 Dino Charge - Offline Chrome Dino Game
 A C++ implementation of the classic Chrome offline dinosaur game. Play the beloved dinosaur runner right on your desktop!
 
-📋 Table of Contents
-Overview
-Features
-Requirements
-Installation
-How to Play
-Project Structure
-Building from Source
-Technologies Used
-Contributing
-License
+
 🎮 Overview
 Dino Charge is a desktop game built in C++ that recreates the iconic Chrome dinosaur game that appears when you lose internet connection. This project brings the fun of the offline game to your desktop with the same addictive gameplay you love.
 
